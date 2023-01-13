@@ -22,7 +22,7 @@
     "dependency-check": "^4.1.0",
     "gh-release": "^6.0.1",
     "npm-run-all2": "^5.0.2",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.0.4",
     "standard": "^16.0.4"
   },
   "repository": {
